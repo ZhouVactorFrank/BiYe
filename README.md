@@ -1,4 +1,4 @@
-# 基于
+# 基于开源项目：
 @misc{likyoocdp:2021,
   Author = {Kaiyu Li, Fulin Sun, Xudong Liu},
   Title = {Change Detection Pytorch},
