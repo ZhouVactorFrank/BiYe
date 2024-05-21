@@ -1,6 +1,6 @@
-# 本科生毕业论文（设计）：
-## 基于改进U-Net++模型的高分辨率城市建筑物遥感变化检测方法<br>
-## 基于开源项目完成：
+## 本科生毕业论文（设计）：
+基于改进U-Net++模型的高分辨率城市建筑物遥感变化检测方法<br>
+### 基于开源项目完成：
 @misc{likyoocdp:2021,
   Author = {Kaiyu Li, Fulin Sun, Xudong Liu},
   Title = {Change Detection Pytorch},
