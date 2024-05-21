@@ -19,9 +19,11 @@
 5.独特的加权FocalLoss（部分实验已完成）<br>
 ### 预测图效果展示
 图1
-![grid_plot_LowDpi_4](https://github.com/ZhouVactorFrank/graduation-design/assets/97760147/597d0c52-7b30-4546-b59c-cf2e05fa3c2a)<br>
+![grid_plot_LowDpi_6](https://github.com/ZhouVactorFrank/graduation-design/assets/97760147/5fb34145-fbbf-401f-9b4a-99070998d9f4)
 <br>
 图2
-![grid_plot_LowDpi_5](https://github.com/ZhouVactorFrank/graduation-design/assets/97760147/ae489033-a41d-4f00-a415-016ddc11118b)
+![grid_plot_LowDpi_7](https://github.com/ZhouVactorFrank/graduation-design/assets/97760147/3e50ae7d-3a6a-4950-aa21-46ac9bccd863)
+<br>
+
 
 
